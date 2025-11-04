@@ -41,3 +41,8 @@ else:
 
 ![Класичний та ООП підхід](pictures/1.png)
 ![ Динамічна робота з об'єктами ](pictures/2.png)
+![ Опис зображення ](pictures/3.png) ![ Опис зображення ](pictures/4.png)
+![ Опис зображення ](pictures/5.png) ![ Опис зображення ](pictures/6.png)
+![ Опис зображення ](pictures/7.png) ![ Опис зображення ](pictures/8.png)
+![ Опис зображення ](pictures/9.png) ![ Опис зображення ](pictures/10.png)
+![ Опис зображення ](pictures/11.png)
